@@ -5,7 +5,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
 #EXTINF:-1 tvg-id="BBC Four HD" tvg-name="BBC Four HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-2-logo-png-transparent.png" group-title="BBC",BBC Four HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
-#EXTINF:-1 tvg-id="CBBC HD" tvg-name="CBBC HD" tvg-logo="https://s3.postimg.org/5rli5k0kj/CBBC_HD_svg.png" group-title="BBC",CBBC HD
+#EXTINF:-1 tvg-id="CBBC HD" tvg-name="CBBC HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-2-logo-png-transparent.png" group-title="BBC",CBBC HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
 #EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-2-logo-png-transparent.png" group-title="BBC",BBC News HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8

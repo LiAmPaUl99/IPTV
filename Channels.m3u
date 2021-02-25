@@ -1,17 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One HD
+#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-2-logo-png-transparent.png" group-title="BBC",BBC One HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
-#EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBC Two HD" tvg-logo="https://s3.postimg.org/3oa6ilk4j/BBC_Two_HD_svg.png" group-title="BBC",BBC Two HD
+#EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBC Two HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-2-logo-png-transparent.png" group-title="BBC",BBC Two HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
-#EXTINF:-1 tvg-id="BBC Four HD" tvg-name="BBC Four HD" tvg-logo="https://s3.postimg.org/odxup7toz/BBC_Four_HD_Logo_svg.png" group-title="BBC",BBC Four HD
+#EXTINF:-1 tvg-id="BBC Four HD" tvg-name="BBC Four HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-2-logo-png-transparent.png" group-title="BBC",BBC Four HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 #EXTINF:-1 tvg-id="CBBC HD" tvg-name="CBBC HD" tvg-logo="https://s3.postimg.org/5rli5k0kj/CBBC_HD_svg.png" group-title="BBC",CBBC HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
-#EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://s3.postimg.org/hxublo6hv/bbc_news_logo.png" group-title="BBC",BBC News HD
+#EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-2-logo-png-transparent.png" group-title="BBC",BBC News HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
-#EXTINF:-1 tvg-id="BBC One North West" tvg-name="BBC One North West" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One North West
+#EXTINF:-1 tvg-id="BBC One North West" tvg-name="BBC One North West" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-2-logo-png-transparent.png" group-title="BBC",BBC One North West
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_west.m3u8
-#EXTINF:-1 tvg-id="Channel 4" tvg-name="Channel 4" tvg-logo="https://spng.pngfind.com/pngs/s/28-281739_channel-4-hd-logo-hd-png-download.png" group-title="Channel 4",Channel 4
-http://orionus.geekgalaxy.com:826/GjmGT5niyZ/VDpe6ibApn/98848
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://harleysthearing.co.uk/wp-content/uploads/2018/03/channel-5-logo.png" group-title="Channel 5",Channel 5
-http://orionus.geekgalaxy.com:826/GjmGT5niyZ/VDpe6ibApn/98847
+

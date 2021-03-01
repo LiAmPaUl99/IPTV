@@ -7,4 +7,5 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
 #EXTINF:-1 tvg-id="BBC One North West" tvg-name="BBC One North West" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-2-logo-png-transparent.png" group-title="BBC",BBC One North West
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_west.m3u8
-
+#EXTINF: -1 TEST
+https://emp.bbc.co.uk/95c68dc3-8437-4dc7-a8b0-7ea21c43a100

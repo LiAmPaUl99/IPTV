@@ -9,7 +9,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_west.m3u8
 
 #EXTINF:-1 tvg-id="ITV HD" tvg-name="ITV HD" tvg-logo="http://assets.stickpng.com/images/5842ab84a6515b1e0ad75b0d.png" group-title="ITV",ITV HD
-https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-id="ITV 2 HD" tvg-name="ITV 2 HD" tvg-logo="http://assets.stickpng.com/images/5842ab84a6515b1e0ad75b0d.png" group-title="ITV",ITV 2 HD
 http://51.52.156.22:8888/http/005
 #EXTINF:-1 tvg-id="ITV 3 HD" tvg-name="ITV 3 HD" tvg-logo="http://assets.stickpng.com/images/5842ab84a6515b1e0ad75b0d.png" group-title="ITV",ITV 3 HD

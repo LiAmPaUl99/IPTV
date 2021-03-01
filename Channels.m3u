@@ -7,5 +7,15 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
 #EXTINF:-1 tvg-id="BBC One North West" tvg-name="BBC One North West" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bbc-2-logo-png-transparent.png" group-title="BBC",BBC One North West
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_west.m3u8
-#EXTINF: -1 TEST
-https://emp.bbc.co.uk/95c68dc3-8437-4dc7-a8b0-7ea21c43a100
+
+#EXTINF:-1 tvg-id="ITV HD" tvg-name="ITV HD" tvg-logo="http://assets.stickpng.com/images/5842ab84a6515b1e0ad75b0d.png" group-title="ITV",ITV HD
+https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+#EXTINF:-1 tvg-id="ITV 2 HD" tvg-name="ITV 2 HD" tvg-logo="http://assets.stickpng.com/images/5842ab84a6515b1e0ad75b0d.png" group-title="ITV",ITV 2 HD
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-id="ITV 3 HD" tvg-name="ITV 3 HD" tvg-logo="http://assets.stickpng.com/images/5842ab84a6515b1e0ad75b0d.png" group-title="ITV",ITV 3 HD
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-id="ITV 4 HD" tvg-name="ITV 4 HD" tvg-logo="http://assets.stickpng.com/images/5842ab84a6515b1e0ad75b0d.png" group-title="ITV",ITV 4 HD
+http://51.52.156.22:8888/http/007
+
+#EXTINF:-1 tvg-id="Sky News HD" tvg-name="Sky News HD" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="SKY",Sky News HD
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true

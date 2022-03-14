@@ -73,7 +73,7 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/4785
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4780
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports F1
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4778
-#EXTINF:-1,Sky Sports Racing HD
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="Sky Sports Racing" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports Racing
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4763
 #EXTINF:-1,BT SPORT 1
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4777

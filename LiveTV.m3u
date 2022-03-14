@@ -35,6 +35,8 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/3773
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3774
 #EXTINF:-1 tvg-id="ChallengeTV.uk" tvg-name="Challenge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Challenge_Logo.png" group-title="Entertainment",Challenge
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4756
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1200px-Gold_2014.svg.png" group-title="Entertainment",Gold
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/103713
 
 #EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="Sky Cinema Action" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Action
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4853
@@ -69,10 +71,22 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/4762
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4785
 #EXTINF:-1,SKY SPORTS
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/103725
+#EXTINF:-1,Sky Sports Golf HD
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4780
+#EXTINF:-1,Sky Sports F1 HD
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4778
+#EXTINF:-1,Sky Sports Racing HD
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4763
 #EXTINF:-1,BT SPORT 1
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4777
+#EXTINF:-1,BT Sport 2 
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4776
+#EXTINF:-1,BT Sport 3 
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4775
 
-#EXTINF:-1,MTV
+#EXTINF:-1,MTV Hits
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4882
+#EXTINF:-1,MTV Music
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4881
 
 

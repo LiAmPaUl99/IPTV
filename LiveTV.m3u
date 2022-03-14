@@ -82,9 +82,9 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/4776
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png" group-title="Sports",BT Sport 3 
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4775
 
-#EXTINF:-1,MTV Hits
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits" tvg-logo="https://w7.pngwing.com/pngs/83/488/png-transparent-mtv-logo-television-viacom-media-networks-creative-music-miscellaneous-white-text.png" group-title="Music",MTV Hits
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4882
-#EXTINF:-1,MTV Music
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV Music" tvg-logo="https://w7.pngwing.com/pngs/83/488/png-transparent-mtv-logo-television-viacom-media-networks-creative-music-miscellaneous-white-text.png" group-title="Music",MTV Music
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4881
 
 

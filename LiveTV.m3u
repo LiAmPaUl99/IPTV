@@ -65,7 +65,7 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/3738
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports Main Event
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4784
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports Premier League
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4762
 #EXTINF:-1,SKY SPORTS NEWS
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4785

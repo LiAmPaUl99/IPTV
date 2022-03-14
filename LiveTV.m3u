@@ -36,7 +36,26 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/3774
 #EXTINF:-1 tvg-id="ChallengeTV.uk" tvg-name="Challenge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Challenge_Logo.png" group-title="Entertainment",Challenge
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4756
 
-#EXTINF:-1,BT SPORT
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="Sky Cinema Action" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Action
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4853
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Comedy
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4859
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Thriller
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4860
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="Sky Cinema Animation" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Animation
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/3764
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Drama
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4798
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Family
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4855
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Greats
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/3761
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="Sky Cinema Hits" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Hits
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/3763
+#EXTINF:-1 tvg-id="SkyCinemaSciFiandHorror.uk" tvg-name="Sky Cinema SCI-FI & Horror" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema SCI-FI & Horror
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4858
+
+#EXTINF:-1,BT SPORT 1
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4777
 
 #EXTINF:-1,FILM 4
@@ -46,24 +65,7 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/3738
 
 #EXTINF:-1,MTV
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4882
-#EXTINF:-1,SKY CINEMA ACTION & ADVENTURE
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4853
-#EXTINF:-1,SKY CINEMA COMEDY
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4859
-#EXTINF:-1,SKY CINEMA CRIME & THRILLER
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4860
-#EXTINF:-1,SKY CINEMA DISNEY
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3764
-#EXTINF:-1,SKY CINEMA DRAMA & ROMANCE
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4798
-#EXTINF:-1,SKY CINEMA FAMILY
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4855
-#EXTINF:-1,SKY CINEMA GREATS
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3761
-#EXTINF:-1,SKY CINEMA HITS
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3763
-#EXTINF:-1,SKY CINEMA SCI-FI & HORROR
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4858
+
 #EXTINF:-1,SKY SPORTS MAIN EVENT
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4784
 #EXTINF:-1,SKY SPORTS PREMIER LEAGUE

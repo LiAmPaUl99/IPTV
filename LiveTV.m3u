@@ -63,7 +63,7 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/3744
 #EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="Horror" tvg-logo="https://p.kindpng.com/picc/s/23-230283_horror-channel-logo-hd-png-download.png" group-title="Movies",Horror
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3738
 
-#EXTINF:-1,SKY SPORTS MAIN EVENT
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports Main Event
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4784
 #EXTINF:-1,SKY SPORTS PREMIER LEAGUE
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4762

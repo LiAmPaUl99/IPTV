@@ -7,23 +7,23 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/4830
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1041.1406401781.png" group-title="Entertainment",BBC One
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3785
-#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1042.1431294248.png" group-title="Entertainment",BBC Two
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1042.1431294248.png" group-title="Entertainment",BBC Two
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3783
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1280px-BBC_Four.svg.png" group-title="Entertainment",BBC Four
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1280px-BBC_Four.svg.png" group-title="Entertainment",BBC Four
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/6034
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",ITV 1
+#EXTINF:-1 tvg-id="ITV1(Granada).uk" tvg-name="ITV 1" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/ITV-Emblem.png" group-title="Entertainment",ITV 1
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/6032
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",ITV 2
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1200px-ITV2_logo_2015.svg.png" group-title="Entertainment",ITV 2
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/6033
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",ITV 3
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" group-title="Entertainment",ITV 3
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3780
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",ITV 4
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://www.vhv.rs/dpng/d/614-6149729_itv4-itv-player-itv-hub-free-to-air.png" group-title="Entertainment",ITV 4
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",ITVBE
+#EXTINF:-1 tvg-id="ITVBE(src01).uk" tvg-name="ITVBe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1280px-ITVBe_logo_2014-.svg.png" group-title="Entertainment",ITVBe
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",CHANNEL 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",Channel 4
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3776
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",CHANNEL 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",Channel 5
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3775
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",DAVE
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/103711

@@ -75,11 +75,11 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/4780
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4778
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="Sky Sports Racing" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports Racing
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4763
-#EXTINF:-1,BT SPORT 1
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png" group-title="Sports",BT Sport 1
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4777
-#EXTINF:-1,BT Sport 2 
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png" group-title="Sports",BT Sport 2 
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4776
-#EXTINF:-1,BT Sport 3 
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png" group-title="Sports",BT Sport 3 
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4775
 
 #EXTINF:-1,MTV Hits

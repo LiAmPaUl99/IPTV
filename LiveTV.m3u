@@ -67,13 +67,11 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/3738
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4784
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports Premier League
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4762
-#EXTINF:-1,SKY SPORTS NEWS
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports News
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4785
-#EXTINF:-1,SKY SPORTS
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/103725
-#EXTINF:-1,Sky Sports Golf HD
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports Golf
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4780
-#EXTINF:-1,Sky Sports F1 HD
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports F1
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4778
 #EXTINF:-1,Sky Sports Racing HD
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4763

@@ -17,19 +17,19 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/6032
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/6033
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" group-title="Entertainment",ITV 3
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3780
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://www.vhv.rs/dpng/d/614-6149729_itv4-itv-player-itv-hub-free-to-air.png" group-title="Entertainment",ITV 4
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://vodzilla.co/wp-content/uploads/2019/02/ITV4-logo.jpg" group-title="Entertainment",ITV 4
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3779
 #EXTINF:-1 tvg-id="ITVBE(src01).uk" tvg-name="ITVBe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1280px-ITVBe_logo_2014-.svg.png" group-title="Entertainment",ITVBe
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",Channel 4
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="http://assets.stickpng.com/images/5842ab7ba6515b1e0ad75b0c.png" group-title="Entertainment",Channel 4
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3776
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",Channel 5
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="https://content.assets.pressassociation.io/2018/03/28153916/e9cf5966-b74f-4d65-8e62-814a8fed9086.png" group-title="Entertainment",Channel 5
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3775
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",DAVE
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave" tvg-logo="https://www.pngkey.com/png/detail/637-6376669_partner-dave-tv-logo.png" group-title="Entertainment",Dave
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/103711
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="Comedy Central" tvg-logo="http://assets.stickpng.com/images/61379c724b96600004f67719.png" group-title="Entertainment",Comedy Central
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3733
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",E4
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="https://www.pngitem.com/pimgs/m/170-1701600_e4-logo-e4-channel-hd-png-download.png" group-title="Entertainment",E4
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3773
 
 #EXTINF:-1,BT SPORT

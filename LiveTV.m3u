@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,BBC NEWS
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="News",BBC News
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3771
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://www.survation.com/wp-content/uploads/2014/02/large-square-sky-news-logo.png" group-title="News",Sky News
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/4830
+
 #EXTINF:-1,BBC ONE
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3785
 #EXTINF:-1,BBC TWO
@@ -40,8 +43,6 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/3778
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3774
 #EXTINF:-1,MTV
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4882
-#EXTINF:-1,SKY NEWS
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4830
 #EXTINF:-1,SKY CINEMA ACTION & ADVENTURE
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4853
 #EXTINF:-1,SKY CINEMA COMEDY

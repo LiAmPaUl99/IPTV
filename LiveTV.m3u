@@ -5,40 +5,43 @@ http://556677.ovh:25461/gvz6riyv/q3htvrhq/3771
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://www.survation.com/wp-content/uploads/2014/02/large-square-sky-news-logo.png" group-title="News",Sky News
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4830
 
-#EXTINF:-1,BBC ONE
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1041.1406401781.png" group-title="Entertainment",BBC One
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3785
-#EXTINF:-1,BBC TWO
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1042.1431294248.png" group-title="Entertainment",BBC Two
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3783
-#EXTINF:-1,BBC FOUR
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1280px-BBC_Four.svg.png" group-title="Entertainment",BBC Four
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/6034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",ITV 1
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/6032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",ITV 2
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/6033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",ITV 3
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/3780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",ITV 4
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/3779
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",ITVBE
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/3778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",CHANNEL 4
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/3776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",CHANNEL 5
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/3775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",DAVE
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/103711
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",COMEDY CENTRAL
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/3733
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",E4
+http://556677.ovh:25461/gvz6riyv/q3htvrhq/3773
+
 #EXTINF:-1,BT SPORT
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4777
 #EXTINF:-1,CHALLENGE
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4756
-#EXTINF:-1,CHANNEL 4
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3776
-#EXTINF:-1,CHANNEL 5
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3775
-#EXTINF:-1,DAVE
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/103711
-#EXTINF:-1,COMEDY CENTRAL
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3733
-#EXTINF:-1,E4
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3773
+
 #EXTINF:-1,FILM 4
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3744
 #EXTINF:-1,HORROR CHANNEL
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3738
-#EXTINF:-1,ITV 1
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/6032
-#EXTINF:-1,ITV 2
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/6033
-#EXTINF:-1,ITV 3
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3780
-#EXTINF:-1,ITV 4
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3779
-#EXTINF:-1,ITVBE
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3778
+
 #EXTINF:-1,MORE 4
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3774
 #EXTINF:-1,MTV

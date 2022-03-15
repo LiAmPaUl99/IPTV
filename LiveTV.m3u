@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/LiAmPaUl99/IPTV/blob/3546fbfd3dab347cb3062dbda7efa824c056b8a0/EPG-Guide-20220315142546.xml.gz"
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="News",BBC News
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/3771

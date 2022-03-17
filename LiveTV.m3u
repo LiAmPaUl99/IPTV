@@ -1,92 +1,89 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="News",BBC News
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3771
+http://ky-iptv.com:80/sword123/sword123/189894.ts
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-logo="https://www.survation.com/wp-content/uploads/2014/02/large-square-sky-news-logo.png" group-title="News",Sky News
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4830
+http://ky-iptv.com:80/sword123/sword123/190003.ts
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1041.1406401781.png" group-title="Entertainment",BBC One
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3785
+http://ky-iptv.com:80/sword123/sword123/189890.ts
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1042.1431294248.png" group-title="Entertainment",BBC Two
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3783
+http://ky-iptv.com:80/sword123/sword123/189891.ts
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1280px-BBC_Four.svg.png" group-title="Entertainment",BBC Four
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/6034
+http://ky-iptv.com:80/sword123/sword123/1858077.ts
 #EXTINF:-1 tvg-id="ITV1(Granada).uk" tvg-name="ITV 1" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/ITV-Emblem.png" group-title="Entertainment",ITV 1
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/6032
+http://ky-iptv.com:80/sword123/sword123/1151892.ts
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1200px-ITV2_logo_2015.svg.png" group-title="Entertainment",ITV 2
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/6033
+http://ky-iptv.com:80/sword123/sword123/391480.ts
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" group-title="Entertainment",ITV 3
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3780
+http://ky-iptv.com:80/sword123/sword123/199506.ts
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://vodzilla.co/wp-content/uploads/2019/02/ITV4-logo.jpg" group-title="Entertainment",ITV 4
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3779
+http://ky-iptv.com:80/sword123/sword123/189961.ts
 #EXTINF:-1 tvg-id="ITVBE(src01).uk" tvg-name="ITVBe" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1280px-ITVBe_logo_2014-.svg.png" group-title="Entertainment",ITVBe
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3778
+http://ky-iptv.com:80/sword123/sword123/189962.ts
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="http://assets.stickpng.com/images/5842ab7ba6515b1e0ad75b0c.png" group-title="Entertainment",Channel 4
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3776
+http://ky-iptv.com:80/sword123/sword123/189920.ts
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="https://content.assets.pressassociation.io/2018/03/28153916/e9cf5966-b74f-4d65-8e62-814a8fed9086.png" group-title="Entertainment",Channel 5
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3775
+http://ky-iptv.com:80/sword123/sword123/189921.ts
 #EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave" tvg-logo="https://www.pngkey.com/png/detail/637-6376669_partner-dave-tv-logo.png" group-title="Entertainment",Dave
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/103711
+http://ky-iptv.com:80/sword123/sword123/189931.ts
 #EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Entertainment",Comedy Central
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3733
+http://ky-iptv.com:80/sword123/sword123/189929.ts
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1122.1539639917.png" group-title="Entertainment",E4
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3773
+http://ky-iptv.com:80/sword123/sword123/391210.ts
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4" tvg-logo="https://i.pinimg.com/originals/ca/f3/f8/caf3f89bb198d40933bf85e29c5d9b63.png" group-title="Entertainment",More 4
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3774
+http://ky-iptv.com:80/sword123/sword123/391498.ts
 #EXTINF:-1 tvg-id="ChallengeTV.uk" tvg-name="Challenge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Challenge_Logo.png" group-title="Entertainment",Challenge
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4756
+http://ky-iptv.com:80/sword123/sword123/391270.ts
 #EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1200px-Gold_2014.svg.png" group-title="Entertainment",Gold
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/103713
+http://ky-iptv.com:80/sword123/sword123/189951.ts
 
 #EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="Sky Cinema Action" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Action
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4853
+http://ky-iptv.com:80/sword123/sword123/391351.ts
 #EXTINF:-1 tvg-id="SkyCinemaPremier.uk" tvg-name="Sky Cinema Premier" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Premier
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4852
+http://ky-iptv.com:80/sword123/sword123/228272.ts
 #EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Comedy
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4859
+http://ky-iptv.com:80/sword123/sword123/228290.ts
 #EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Thriller
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4860
+http://ky-iptv.com:80/sword123/sword123/228284.ts
 #EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="Sky Cinema Animation" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Animation
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3764
+http://ky-iptv.com:80/sword123/sword123/1663386.ts
 #EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Drama
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4798
 #EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="Sky Cinema Family" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Family
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4855
+http://ky-iptv.com:80/sword123/sword123/391349.ts
 #EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="Sky Cinema Greats" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Greats
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3761
+http://ky-iptv.com:80/sword123/sword123/228287.ts
 #EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="Sky Cinema Hits" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema Hits
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3763
+http://ky-iptv.com:80/sword123/sword123/228287.ts
 #EXTINF:-1 tvg-id="SkyCinemaSciFiandHorror.uk" tvg-name="Sky Cinema SCI-FI & Horror" tvg-logo="http://assets.stickpng.com/images/5842ab6da6515b1e0ad75b0a.png" group-title="Movies",Sky Cinema SCI-FI & Horror
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4858
+http://ky-iptv.com:80/sword123/sword123/228281.ts
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/1200px-Film4_logo_2018.svg.png" group-title="Movies",Film4
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3744
+http://ky-iptv.com:80/sword123/sword123/189945.ts
 #EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="Horror" tvg-logo="https://p.kindpng.com/picc/s/23-230283_horror-channel-logo-hd-png-download.png" group-title="Movies",Horror
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/3738
+http://ky-iptv.com:80/sword123/sword123/391308.ts
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports Main Event
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4784
+http://ky-iptv.com:80/sword123/sword123/1847084.ts
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports Premier League
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4762
+http://ky-iptv.com:80/sword123/sword123/1821337.ts
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports News
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4785
+http://ky-iptv.com:80/sword123/sword123/1769168.ts
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports Golf
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4780
+http://ky-iptv.com:80/sword123/sword123/391434.ts
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports F1
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4778
+http://ky-iptv.com:80/sword123/sword123/1846774.ts
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="Sky Sports Racing" tvg-logo="https://www.famousstarhotel.co.uk/wp-content/uploads/2020/03/sky-sports-logo-png-8.png" group-title="Sports",Sky Sports Racing
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4763
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png" group-title="Sports",BT Sport 1
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4777
+http://ky-iptv.com:80/sword123/sword123/1846762.ts
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png" group-title="Sports",BT Sport 2 
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4776
+http://ky-iptv.com:80/sword123/sword123/1846763.ts
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="https://up.metropol247.co.uk/JetixFann450/BT-Sport-new-logo.png" group-title="Sports",BT Sport 3 
-http://556677.ovh:25461/gvz6riyv/q3htvrhq/4775
+http://ky-iptv.com:80/sword123/sword123/1846764.ts
 
 #EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits" tvg-logo="https://w7.pngwing.com/pngs/83/488/png-transparent-mtv-logo-television-viacom-media-networks-creative-music-miscellaneous-white-text.png" group-title="Music",MTV Hits
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4882
 #EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV Music" tvg-logo="https://w7.pngwing.com/pngs/83/488/png-transparent-mtv-logo-television-viacom-media-networks-creative-music-miscellaneous-white-text.png" group-title="Music",MTV Music
 http://556677.ovh:25461/gvz6riyv/q3htvrhq/4881
-
-#EXTINF:-1,UK: Sky ONE HD
-https://bm1.mrqls.to/a/extra/m1/2018/insidious.the.last.key.2018.mp4?tok=634C44512533444C52494768766E724D6A31316558454E595231316230477864324E396451644D77453025334479377837594755414C524945644F7730616D4B6961487849555632305955437662335648584564357368584569484E484B6A6736474656457853416964476D675A47354A5843527A6444327964325630707A6845735576386362393458326B7858316C3376434C6D4957656D623252436C6835356554327662336C446351672D64522533444363635A77576D564459524D4A6825334472724D447039&valid=ILvUXDJAWL5oCILAWBe1uQ&t=1647479130
 
